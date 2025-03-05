@@ -29,8 +29,8 @@ Este repositorio contiene el desarrollo del **Proyecto 1** de la asignatura **Pr
 - Al final, se indica si el usuario **ganó**.
 
 ## 📂 Estructura del Repositorio
-```
-/ │── README.md # Documentación del proyecto
+``` 
+│── README.md # Documentación del proyecto
 │── informe.pdf # Documento con análisis, pseudocódigo y capturas
 └── problema_3/
   |─- sudoku.py # Código de Sudoku
